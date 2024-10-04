@@ -1,3 +1,5 @@
+- Computer science undergraduate student in Taizhou University
+- ICPC Invitational Ag🥈/Regional Cu🥉
 - 👋 Codeforces/Atcoder/luogu/loj/hydro/Nowcoder:Captainfly
 
 <!---

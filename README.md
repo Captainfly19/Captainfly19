@@ -1,6 +1,4 @@
-- Computer science undergraduate student in Taizhou University
-- ICPC Invitational Ag🥈/Regional Cu🥉
-- 👋 Codeforces/Atcoder/luogu/loj/hydro/Nowcoder:Captainfly
+
 
 <!---
 Captainfly19/Captainfly19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
